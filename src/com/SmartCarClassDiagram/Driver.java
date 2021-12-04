@@ -1,13 +1,17 @@
 /**
  * 
  */
-package com.SmartCarNaviagte;
+package com.SmartCarClassDiagram;
 
 /**
  * @author varas
  *
  */
-public class Left {
+public class Driver {
+	
+	private String driverName;
+	
+	private String driverLicenseNumber;
 
 	/**
 	 * @param args

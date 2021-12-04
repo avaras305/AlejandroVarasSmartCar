@@ -1,21 +1,24 @@
 /**
  * 
  */
-package com.SmartCarNaviagte;
+package com.SmartCarClassDiagram;
 
 /**
  * @author varas
  *
  */
 public class Battery {
-
-	public void batteryOn() {
-		
-	}
 	
-	public void batteryOff() {
+	private String batteryType;
+	
+	private float batteryCapacity;
+	
+	private String batteryCharge;
+	
+	public void batteryDrainage() {
 		
 	}
+
 	/**
 	 * @param args
 	 */

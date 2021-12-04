@@ -1,21 +1,22 @@
 /**
  * 
  */
-package com.SmartCarNaviagte;
+package com.SmartCarClassDiagram;
 
 /**
  * @author varas
  *
  */
-public class Button {
-
-	public void shortPress() {
-		
-	}
+public class GPS {
 	
-	public void longPress() {
+	private String GPSNumber;
+	
+	private String destination;
+	
+	public void calculateDestination() {
 		
 	}
+
 	/**
 	 * @param args
 	 */
